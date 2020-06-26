@@ -1,4 +1,4 @@
-
+//question 1-traverse leaves right to left//
  
 public class Tree { 
     Node root; 
